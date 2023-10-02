@@ -6,13 +6,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandih&label=Profile%20views&color=0e75b6&style=flat" alt="chandih" /> </p>
 
 <h3 align="left">A little about me...:</h3>
-I'm a **undergrad Student🎓 [@ University of Moratuwa](https://uom.lk/)** majoring in Computer Science and Engineering. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech.<br/><br/>
+I'm an undergrad Student🎓 <a href="https://uom.lk/" target="blank">University of Moratuwa</a> majoring in Computer Science and Engineering. I'm a Tech Enthusiast 💻 😃  passionate about learning and working with new tech.<br/><br/>
 
-- 🌱 I’m currently learning _React, React-Native_
+* 🌱 I’m currently learning *React, React-Native*
 * 🧐 Interested in full stack.
 * 👨 I enjoy cycling and flying drones.
 
-- 📫 How to reach me **someshchandih@gmail.com**
+ 📫 How to reach me **someshchandih@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
