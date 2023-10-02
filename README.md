@@ -9,8 +9,8 @@
 I'm a **undergrad Student🎓 [@ University of Moratuwa](https://uom.lk/)** majoring in Computer Science and Engineering. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech.<br/><br/>
 
 - 🌱 I’m currently learning _React, React-Native_
-
 * 🧐 Interested in full stack.
+* 👨 I enjoy cycling and flying drones.
 
 - 📫 How to reach me **someshchandih@gmail.com**
 
