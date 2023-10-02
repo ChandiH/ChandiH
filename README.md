@@ -1,3 +1,5 @@
+![](https://github.com/Chandih/Chandih/blob/master/Icons/header_1.png)
+
 <h1 align="center">Hi 👋, I'm Somesh Chandimal</h1>
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
 
