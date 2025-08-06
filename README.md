@@ -8,15 +8,39 @@
 <h3 align="left">A little about me...:</h3>
 I'm an undergrad Student🎓 <a href="https://uom.lk/" target="blank">University of Moratuwa</a> majoring in Computer Science and Engineering. I'm a Tech Enthusiast 💻 😃  passionate about learning and working with new tech.<br/><br/>
 
-* 🌱 I’m currently learning *React, React-Native*
-* 🧐 Interested in full stack.
-* 👨 I enjoy cycling and flying drones.
+🎓 Final year undergraduate in **Computer Science & Engineering** at the **University of Moratuwa**  
+💼 Software Engineer at **KAST** | Freelance Developer  
+📍 Based in Kegalle, Sri Lanka  
 
- 📫 How to reach me **someshchandih@gmail.com**
+---
+
+## 🚀 About Me
+
+I'm a passionate and driven software engineer who thrives in collaborative and fast-paced environments. I love solving challenging problems, exploring new technologies, and building scalable, user-friendly applications.
+
+With hands-on experience in **cloud-native microservices**, **OAuth-based authentication**, and **frontend development**, I enjoy working across the stack — from DevOps to dynamic UI design.
+
+I'm always learning, experimenting, and contributing to projects that excite me. Whether it's building distributed systems, experimenting with LLMs, or crafting responsive user experiences — I’m all in.
+
+---
+
+## 🛠️ Tech Stack & Interests
+
+- **Languages:** Go, Java, Python, C++, JavaScript, TypeScript  
+- **Frontend:** React, Next.js, Redux, Angular, React Native  
+- **Backend:** Go, Node.js (Express), Java (Spring), REST APIs  
+- **Cloud & DevOps:** GCP, Pulumi, Docker, CI/CD, Firebase  
+- **Databases:** PostgreSQL, SQLite, MySQL, Firestore, MongoDB  
+- **Specialties:** OAuth2, Authorization Systems, RAG with LLMs, Distributed Systems
+
+---
+
+Thanks for visiting my GitHub! Feel free to reach out or connect 👇  
+📧 **somesh.20@cse.mrt.ac.lk** | [LinkedIn](www.linkedin.com/in/somesh-chandimal)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/somesh chandimal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="somesh chandimal" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/somesh-chandimal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="somesh chandimal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">⚙️ Some Tool and Tech I use:</h3>
