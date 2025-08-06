@@ -5,7 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandih&label=Profile%20views&color=0e75b6&style=flat" alt="chandih" /> </p>
 
-<h3 align="left">A little about me...:</h3>
+<h3 align="left">A little about me...</h3>
+
 🎓 Final year undergraduate in **Computer Science & Engineering** at the **University of Moratuwa**  
 💼 Software Engineer at **KAST** | Freelance Developer  
 📍 Based in Kegalle, Sri Lanka  
