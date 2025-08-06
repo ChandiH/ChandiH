@@ -1,13 +1,11 @@
 ![](https://github.com/ChandiH/ChandiH/blob/main/Icons/Header.png)
 
 <h1 align="center">Hi 👋, I'm Somesh Chandimal</h1>
-<h3 align="center">A passionate full stack developer from Sri Lanka</h3>
+<h3 align="center">A passionate full stack engineer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandih&label=Profile%20views&color=0e75b6&style=flat" alt="chandih" /> </p>
 
 <h3 align="left">A little about me...:</h3>
-I'm an undergrad Student🎓 <a href="https://uom.lk/" target="blank">University of Moratuwa</a> majoring in Computer Science and Engineering. I'm a Tech Enthusiast 💻 😃  passionate about learning and working with new tech.<br/><br/>
-
 🎓 Final year undergraduate in **Computer Science & Engineering** at the **University of Moratuwa**  
 💼 Software Engineer at **KAST** | Freelance Developer  
 📍 Based in Kegalle, Sri Lanka  
