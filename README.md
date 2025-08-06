@@ -5,15 +5,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandih&label=Profile%20views&color=0e75b6&style=flat" alt="chandih" /> </p>
 
-<h3 align="left">A little about me...</h3>
-
 🎓 Final year undergraduate in **Computer Science & Engineering** at the **University of Moratuwa**  
 💼 Software Engineer at **KAST** | Freelance Developer  
 📍 Based in Kegalle, Sri Lanka  
 
----
 
-## 🚀 About Me
+### 🚀 About Me
 
 I'm a passionate and driven software engineer who thrives in collaborative and fast-paced environments. I love solving challenging problems, exploring new technologies, and building scalable, user-friendly applications.
 
@@ -21,9 +18,8 @@ With hands-on experience in **cloud-native microservices**, **OAuth-based authen
 
 I'm always learning, experimenting, and contributing to projects that excite me. Whether it's building distributed systems, experimenting with LLMs, or crafting responsive user experiences — I’m all in.
 
----
 
-## 🛠️ Tech Stack & Interests
+### 🛠️ Tech Stack & Interests
 
 - **Languages:** Go, Java, Python, C++, JavaScript, TypeScript  
 - **Frontend:** React, Next.js, Redux, Angular, React Native  
@@ -32,7 +28,6 @@ I'm always learning, experimenting, and contributing to projects that excite me.
 - **Databases:** PostgreSQL, SQLite, MySQL, Firestore, MongoDB  
 - **Specialties:** OAuth2, Authorization Systems, RAG with LLMs, Distributed Systems
 
----
 
 Thanks for visiting my GitHub! Feel free to reach out or connect 👇  
 📧 **somesh.20@cse.mrt.ac.lk** | [LinkedIn](www.linkedin.com/in/somesh-chandimal)
